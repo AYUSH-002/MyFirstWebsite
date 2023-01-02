@@ -1,0 +1,251 @@
+body{
+    background-color: aquamarine;
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+
+}
+h1
+{
+    color:orange;
+    font-size: 4rem;
+    font-family:'Sacramento',cursive;
+}
+h2
+{
+    color:orange;
+    font-size: 2.2rem;
+    font-family:Chelsea Market;
+}
+.city
+{
+    color:orange;
+    font-size: 2.2rem;
+    font-family:Chelsea Market;
+    text-align: left;
+}
+h3
+{
+    color:orange;
+    font-size: 1.5rem;
+    font-family:Chelsea Market;
+}
+.para
+{
+    font-family:Prosto One;
+    font-size:1.1rem;;
+    text-align:center;
+    font-weight:300px;
+
+}
+.top-container
+{
+    position:relative;
+    padding-top: 100px;
+}
+.top-cloud
+{
+    position:absolute;
+   top:50px;
+   right:175px;
+}
+.bottom-cloud
+{
+    position:absolute;
+    left: 150px;
+    top: 220px;
+}
+.man
+{
+    position:absolute;
+    left: 100px;
+    top: 20px;
+}
+.man2
+{
+    width:35%;
+    height:35%;
+    float: left;
+    margin-right:30px;
+    margin-left: 5px;
+
+}
+
+.skill
+{
+    font-family: Prosto One;
+    font-size: 15px;
+    position: absolute;
+    right: 300px;
+    top: 25px;
+}
+.edu
+{
+    font-family: Prosto One;
+    font-size: 15px;
+    position: absolute;
+    right: 200px;
+    top: 25px;
+}
+/* .edu
+{
+    font-family: Prosto One;
+    font-size: 15px;
+    position: absolute;
+    right: 100px;
+    top: 25px;
+} */
+.btn
+{
+    font-size: 1.1em;
+    text-align: center;
+    display: block;
+    position:absolute;
+    background:orange;
+    padding: 0.75em 2em 0.75em 3.5em;
+    color: #1e1b7f;
+    text-decoration: none;
+    /* margin: 1.5em 0 0; */
+    left: 630px;
+    top:1860px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    font-weight: 400;
+    border: 0;
+    font-family:Prosto One
+}
+.bottom-container
+{
+    font-size: 1.1em;
+    text-align: center;
+    display: block;
+    position:absolute;
+    left: 640px;
+    top:1890px;
+    font-family:Prosto One
+}
+.ayu
+{
+    position:absolute;
+    left: 0px;
+    top:20px;
+}
+.ayu1
+{
+    position:absolute;
+    left: 80px;
+    top:20px;
+}
+.ayu2
+{
+    position:absolute;
+    left: 160px;
+    top:20px;
+}
+hr {
+    border-style: none;
+    border-top-style:dotted;
+    border-color:grey;
+    border-width:10px;
+    /* width: 100px;now we cannot put that always as phone and laptops and etc will have diff things so we put auto percenage */
+    width: 5%;
+}
+.skills
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+/* .ayu2
+{
+   text-align: end;
+
+} */
+/* div
+{
+    background-color: #BFEAF5;
+}
+h1{
+    margin-top: 0;
+    margin-bottom: 0;
+} */
+/* .top-container
+{
+    background-color:yellow;
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    border-color: black;
+    padding: 20px;
+}
+.middle-container
+{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border:solid 20px;
+    border-color: black;
+    margin-left: 260px;
+}
+.bottom-container
+{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    border:solid 10px;
+    border-color: black;
+    margin-left: 500px;
+} */
+/* .top-container
+{
+    background-color:yellow;
+    width: 200px;
+    height: 200px;
+    position:relative;
+    left: 200px;
+}
+.middle-container
+{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    position:relative;
+    left: 400px;
+    bottom: 200px;
+}
+.bottom-container
+{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position:relative;
+    bottom: 400px;
+} */
+/* display : inline-block is used to display them in a
+ line like i have used here is maths but instead of that what we can do is we can use this and do this and take them in a same line */
+ /* .top-container
+{
+    background-color:yellow;
+    width: 200px;
+    height: 200px;
+    position:absolute;
+}
+.middle-container
+{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    position:absolute;
+    left: 400px;
+    top: 400px;
+}
+.bottom-container
+{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position:absolute;
+    left: 200px;
+    top: 200px;
+    
+} */
